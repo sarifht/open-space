@@ -14,8 +14,8 @@ Instalasi Node-Module Persiapkan lingkungan yang diperlukan untuk proyek ini. --
 
 ### Link GitHub
 
-https://github.com/sarifht/react-expert-1-sarif
+https://github.com/sarifht/open-space
 
 ### Link Vercel
 
-https://react-expert-1-sarif.vercel.app/
+https://open-space-xi.vercel.app/
